@@ -1,0 +1,12 @@
+{
+  "name": "CineHD",
+  "description": "Scrapes latest movies and serials from https://cinehd.app securely with auto resolvers.",
+  "author": "NewbieDev",
+  "version": 1,
+  "apiKeys": [],
+  "tvTypes": [
+    "Movie",
+    "TvSeries"
+  ],
+  "className": "com.phisher.CineHDProvider"
+}
